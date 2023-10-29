@@ -8,7 +8,6 @@
        width="150"
        height="150"></a>
 </p>
-# Information
 my osu skin edits : )
 
 my osu! profile — https://osu.ppy.sh/users/7975708
