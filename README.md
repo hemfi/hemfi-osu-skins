@@ -15,7 +15,7 @@ my osu! profile — https://osu.ppy.sh/users/7975708
 
 some skins were made using osu skin mixer (https://github.com/rednir/OsuSkinMixer)
 
-mainly using **hemfi flower**
+now using **hemfi flower**
 # Skins
 ## [hemfi flower](https://rothax.s-ul.eu/Adbojjd2)
 [![image](https://i.ibb.co/BT6nW7m/screenshot022.jpg)](https://rothax.s-ul.eu/Adbojjd2)
