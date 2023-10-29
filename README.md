@@ -9,14 +9,18 @@
        height="150"></a>
 </p>
 # Information
-my osu skin edits : ) \\ previously known as rothax
+my osu skin edits : )
 
 my osu! profile — https://osu.ppy.sh/users/7975708
 
 some skins were made using osu skin mixer (https://github.com/rednir/OsuSkinMixer)
 
-mainly using **rothax yuriki**
+mainly using **hemfi flower**
 # Skins
+## [hemfi flower](https://rothax.s-ul.eu/Adbojjd2)
+[![image](https://i.ibb.co/BT6nW7m/screenshot022.jpg)](https://rothax.s-ul.eu/Adbojjd2)
+## [hemfi star](https://rothax.s-ul.eu/ZYAY8Qbm)
+[![image](https://i.ibb.co/LJfvK4T/screenshot023.jpg)](https://rothax.s-ul.eu/ZYAY8Qbm)
 ## [rothax yuriki](https://rothax.s-ul.eu/tkpGHYZn)
 [![image](https://i.ibb.co/R3YP0zK/screenshot001.jpg)](https://rothax.s-ul.eu/tkpGHYZn)
 ## [rothax dt](https://rothax.s-ul.eu/rPVSXzLP)
