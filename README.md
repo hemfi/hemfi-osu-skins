@@ -10,7 +10,7 @@
 </p>
 my osu skin edits : )
 
-my osu! profile — https://osu.ppy.sh/users/7975708
+profile —> https://osu.ppy.sh/users/7975708
 
 some skins were made using osu skin mixer (https://github.com/rednir/OsuSkinMixer)
 
